@@ -1,7 +1,7 @@
 
 PImage Montreal;
 float[] Xs = new float[1000];
-float x;
+float x; 
 float y;
 float[] Ys = new float[1000];
 
